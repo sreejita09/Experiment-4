@@ -3,6 +3,9 @@
 # Aim 
 To study and implement C++ Bitwise Operators
 
+# software used
+VS code 
+
 # Theory 
 Bitwise Operators are the operators that are used to perform operations on the bit level on the integers. While performing this operation integers are considered as sequences of binary digits. In C++, we have various types of Bitwise Operators.
 
